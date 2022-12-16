@@ -1,3 +1,9 @@
+Swal.fire({
+    title: 'Bienvenido',
+    text: 'Ingresaste a DataWriter, la mejor tienda de libros online.',    
+})
+
+
 //creo los objetos
 const productos = [
     // Suspenso
